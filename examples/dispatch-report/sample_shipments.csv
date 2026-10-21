@@ -1,0 +1,5 @@
+shipment_id,status,promised_at
+DEMO-001,delivered,2026-10-21T12:00:00Z
+DEMO-002,in_transit,2026-10-21T12:30:00Z
+DEMO-003,scheduled,2026-10-21T13:30:00Z
+DEMO-004,scheduled,2026-10-21T15:00:00Z
